@@ -1,0 +1,5 @@
+name: Mine Regen
+version: 1.0-SNAPSHOT
+main: com.gameszaum.mineregen.MineRegen
+api-version: 1.13
+authors: [gameszaum]
